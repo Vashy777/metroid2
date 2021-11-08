@@ -15,5 +15,4 @@ If you want to help with the project then by all mean go ahead. I am new to disa
 
 * [**mgbdis**](https://github.com/mattcurrie/mgbdis)
 
- cd /to/files/in/folders
- make
+ cd /to/files/in/folders && make
